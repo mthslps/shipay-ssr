@@ -13,7 +13,7 @@ git clone https://github.com/mthslps/shipay-ssr.git
 ```
 
 ```
-npm install or yarn install
+yarn install
 ```
 
 Then start the example app with:
